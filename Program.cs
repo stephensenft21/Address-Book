@@ -15,7 +15,7 @@ namespace AddressBook
         */
 
         static void Main(string[] args)
-        {
+        {   
             // Create a few contacts
             Contact Frank = new Contact()
             {
